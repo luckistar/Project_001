@@ -11,3 +11,6 @@ We are going to compare the value of num1 and two times the num2, if the num1 is
 # 03/13/2023 Project_004
     Project_004 codecademy_challenges
 We are going to see if the num is divisible by 10, if the remainder is 0 means it is divisible by 10 and it returns True, else it is not divisible by 10 and return False
+# 03/13/2023 Project_005
+    Project_005 codecademy_challenges
+We are going to see if the num1 and num2 add up to 10, if it does then return False, Else return True. 
