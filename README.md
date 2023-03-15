@@ -28,3 +28,6 @@ We are going to prove that sometimes conditional statements does not work even i
 # 03/15/2023 Project_004_advanced
     Project_004_advanced codecademy_challenges
 We are going to compare the movie rating. If the rating is less than or equal to 5, then we return "Avoid at all costs!". If the rating is between 5 and 9, then return "This one was fun." If it is over 9, then return "Oudstanding!"
+# 03/15/2023 Project_005_advanced
+    Project_005_advanced codecademy_challenges
+In this project, we are going to define a function with three paramter; num1, num2, num3. We are trying to compare numbers to find the largest number between them. If any of them are equal and largest, then return "It's a tie!"
