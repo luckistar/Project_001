@@ -22,3 +22,5 @@ In this project we are going to do some advanced control flow problems. We are g
     Project_002_advanced codecademy_challenges
 In this project, we are going to compare two strings to see if they are equal. If they are return true, else return false
 
+# 03/15/2023 Project_003_advanced
+We are going to prove that sometimes conditional statements does not work even if your code does not give you any errors. We first define a function with one parameter (number) and we put a contradiction statements for example if the number is bigger than and less than one random number at the same time, if yes return True, else return False. 
