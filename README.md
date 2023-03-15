@@ -18,3 +18,6 @@ We are going to see if the num1 and num2 add up to 10, if it does then return Fa
 # 03/15/2023 Project_001_advanced
     Project_001_advanced codecademy_challenges
 In this project we are going to do some advanced control flow problems. We are going to test if the number falls into certain range. We define the function with three parameters, a number (num), lower number(lower), upper number (uppper), then we compare the number we have with the range to see if the numbr is within the range if yes then return True, else return False
+# 03/15/2023 Project_002_advanced
+In this project, we are going to compare two strings to see if they are equal. If they are return true, else return false
+
