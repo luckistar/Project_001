@@ -33,3 +33,5 @@ We are going to compare the movie rating. If the rating is less than or equal to
 In this project, we are going to define a function with three paramter; num1, num2, num3. We are trying to compare numbers to find the largest number between them. If any of them are equal and largest, then return "It's a tie!"
 # 03/18/2023 Project_list_001
 In this project, we are going to use len() return the length of the list, it shows you how many items are inside of the list. We are also gonna use .append() to add items on end of the list. It will add exact items to paranthesis.
+# 03/18/2023 Project_list_002
+In this project, we are going to add the last two elements from the list and then add the sum to end of the list. Do it three more time. We use going to use range() to run through the iteration and keep adding the sum till end of the list
