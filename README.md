@@ -39,3 +39,5 @@ In this project, we are going to add the last two elements from the list and the
 In this project, we are going to compare the items in two lists. If one list has more items than the other list then return the last item of the list has more item. If both lists have equal amount of items, then return the last item of the first list
 # 03/19/2023 Project_list_004
 In this project, we are going to count one specific item that is appearing in our list, and compare the amount of this item and most popular item amount. If this item has more amount than most popular item then return True, Else return False
+# 03/20/2023 Project_list_005
+In this project we are going to combine two lists and sort the new list and return it. We are using sorted() instead of sort(), because I want to keep the original list as well
